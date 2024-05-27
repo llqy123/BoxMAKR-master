@@ -151,7 +151,7 @@ class HGKR_model(nn.Module):
         return outputs
 
 
-class HGKR(object):
+class BoxMAKR(object):
     def __init__(self, args, n_users, n_items, n_entities,
                  n_relations):
         self.args = args
