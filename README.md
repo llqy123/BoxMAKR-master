@@ -5,7 +5,7 @@ Knowledge Graph-Enhanced Recommendation with Box Embeddings
 <p align="center">
     <img src="https://img.shields.io/badge/version-1.0.1-blue">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?e&logo=PyTorch&logoColor=white">
-    <a href="https://2024.ieeewcci.org/"><img src="https://img.shields.io/badge/IJCNN-2024-%23bd9f65?labelColor=%2377BBDD&color=3388bb"></a>
+    <a href="http://cips-cl.org/static/CCL2024/index.html"><img src="https://img.shields.io/badge/CCL-2024-%23bd9f65?labelColor=%2377BBDD&color=3388bb"></a>
 </p>
 
 This repository is the official implementation of ["Knowledge Graph-Enhanced Recommendation with Box Embeddings"] accepted by CCL 2024.
