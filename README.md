@@ -9,11 +9,11 @@ Knowledge Graph-Enhanced Recommendation with Box Embeddings
 </p>
 
 This repository is the official implementation of ["Knowledge Graph-Enhanced Recommendation with Box Embeddings"] accepted by CCL 2024.
-### Requirements
+## 💻 Requirements
 - Python == 3.6
 - PyTorch >= 0.4
 
-### Running
+## 🚀 Running
 - Preprocess
 
 ```
