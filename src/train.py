@@ -1,6 +1,6 @@
 import numpy as np
 from tqdm import tqdm
-from model import HGKR
+from model import BoxMAKR
 from torch.utils.data import DataLoader
 from torch.utils.data.sampler import SubsetRandomSampler
 
@@ -23,8 +23,8 @@ def train(args, rs_dataset, kg_dataset):
     # Init train sampler
     train_sampler = SubsetRandomSampler(train_indices)
 
-    # Init HGKR model
-    model = HGKR(args, n_user, n_item, n_entity, n_relation)
+    # Init BoxMAKR model
+    model = BoxMAKR(args, n_user, n_item, n_entity, n_relation)
 
     f = open(args.summary_path + '\\' + args.dataset + '.txt', 'a')
 
