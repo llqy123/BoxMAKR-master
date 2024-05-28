@@ -29,3 +29,5 @@ python src/main_movie.py
 python src/main_book.py
 python src/main_music.py
 ```
+## 😄 Cite:
+## Please cite our paper if you use the model or this code in your own work:
